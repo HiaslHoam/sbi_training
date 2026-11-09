@@ -1,0 +1,18 @@
+{
+  "omega_noise_model_A": {
+    "wasp94ab": 1.0,
+    "tres4b": 2.343,
+    "wasp15b": 1.435,
+    "hatp30b": 1.711,
+    "ngts2b": 1.452,
+    "kelt7b": 0.723
+  },
+  "omega_paper_baseline": {
+    "wasp94ab": 1,
+    "tres4b": 2.3,
+    "wasp15b": 1.6,
+    "hatp30b": 1.7,
+    "ngts2b": 1.5,
+    "kelt7b": 0.7
+  }
+}
